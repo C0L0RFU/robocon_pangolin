@@ -20,3 +20,4 @@
  - 2024级四足机器人AprilTag定位代码
  - 2024级激光雷达FastLio2 & FasterLio惯导定位代码包
  - 2024级激光雷达PCL库处理点云初体验代码
+[nano资料](%E9%93%BE%E6%8E%A5:%20https://pan.baidu.com/s/1lGNxfw8Heer0rpTZ_wVIHg?pwd=am9v%20%E6%8F%90%E5%8F%96%E7%A0%81:%20am9v)
